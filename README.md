@@ -1,6 +1,6 @@
 # Using Proxies With SeleniumBase
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types/residential-proxies) 
 
 This guide explains how to set up SeleniumBase with authenticated proxies to bypass restrictions and enhance your web scraping success.
 
