@@ -92,7 +92,7 @@ Use the `--proxy` flag followed by the proxy URL. Here is the template:
 
 #### Free Proxy
 
-The following example uses a free proxy from Bright Data. The IP address is `155.54.239.64`, and we’re talking to it on port `80`.
+The following example uses a [free proxy](https://brightdata.com/solutions/free-proxies) from Bright Data. The IP address is `155.54.239.64`, and we’re talking to it on port `80`.
 
 ```
 --proxy=155.54.239.64:80
