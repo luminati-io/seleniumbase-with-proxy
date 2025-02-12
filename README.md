@@ -110,9 +110,9 @@ proxy=<YOUR_USERNAME>:<YOUR_PASSWORD>@<PROXY_URL>:<PROXY_PORT>
 
 The best authenticated proxies options are:
 
-- **Residential proxies**: use real user IPs which makes them ideal for bypassing bot detection.
-- **Datacenter proxies**: faster and more cost-effective but easier to detect.
-- **ISP proxies**: combine the benefits of both, offering speed with high trust levels.
+- [**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies): use real user IPs which makes them ideal for bypassing bot detection.
+- [**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies): faster and more cost-effective but easier to detect.
+- [**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies): combine the benefits of both, offering speed with high trust levels.
 
 ### Running With a Proxy
 
